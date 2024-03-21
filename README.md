@@ -8,11 +8,26 @@
 𝐩𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐟𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞𝐬 𝐪𝐮𝐞 𝐦𝐞 𝐩𝐫𝐨𝐩𝐨𝐫𝐜𝐢𝐨𝐧𝐚𝐦 𝐮𝐦𝐚 𝐩𝐨𝐭𝐞𝐧𝐜𝐢𝐚𝐥𝐢𝐳𝐚çã𝐨 𝐩𝐫𝐨𝐟𝐢𝐬𝐬𝐢𝐨𝐧𝐚𝐥.
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielAtahide&show_icons=true&theme=dark&include_all_commits=true">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAtahide&theme=dark&size_weight=0.5&count_weight=0.5)
+
+<br>
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=VpCqJQvTnSBGGXZKfGXsNCNwlscFSCclsbghWZvmHrfHsXBxKqtdRdlfdjKJnDFrqCvqsCl) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-atahide-84080b283)    
 
 
+Linguagens e Tecnologias  
 
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=VpCqJQvTnSBGGXZKfGXsNCNwlscFSCclsbghWZvmHrfHsXBxKqtdRdlfdjKJnDFrqCvqsCl)
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-atahide-84080b283)
